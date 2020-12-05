@@ -1,0 +1,9 @@
+variables j: entiers
+début
+j ← 0;
+Pour i ← 1 à 4
+j ← j + i;
+i ← i + 1;
+fin pour
+afficher(j);
+fin

@@ -1,0 +1,61 @@
+
+
+[
+    {
+        "id_apprenant" : "1",
+        "name_apprenant" : "yassineouaarab",
+        "mail_apprenant" : "yassineouaarab5@gmail.com",
+        "password_apprenant" : "123123123", 
+        "addres_apprenant" : "565 nehda, Khouribga",
+        "tel_apprenant": "0636589291"
+    }
+];
+
+[
+    {
+        "id_quiz" : "1",
+        "name_quiz" : "Quiz1",
+        "note_quiz" : "3/4",
+        "pst_reussite_quiz" : "75%"
+    }
+]
+
+[
+    {
+        "Id_exercice" : "1",
+        "Name_exercice" : "Exercice1",
+        "state_exercice" : "false"
+        
+    }
+]
+
+[
+    {
+        "id_video" : "1",
+        "name_video" : "1-Introduction + definition",
+        "state_video" : "true"
+
+
+
+    }
+]
+
+[
+    {
+        "id_chapter" : "1",
+        "name_chapter" : "Rappels sur l'Algorithmique",
+        "State_chapter" : "true"
+    }
+]
+
+[
+    {
+        "id_st" : "1",
+        "name_st" : "st1",
+        "pst_course_chapter" : "25%",
+        "pst_course_video" : "30%", 
+        "pst_course_exercice" : "20%",
+        "pst_course_quiz": "10%"
+    }
+]
+
